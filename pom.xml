@@ -4,10 +4,10 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mulesoft.connectors</groupId>
-	<artifactId>mule4-idp-omni-connector</artifactId>
+	<artifactId>mule4-idp-universal-connector</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 	<packaging>mule-extension</packaging>
-	<name>MuleSoft IDP Omni Connector - Mule 4</name>
+	<name>MuleSoft IDP Universal Connector - Mule 4</name>
 
 	<parent>
 		<groupId>org.mule.extensions</groupId>

@@ -17,8 +17,8 @@ import static org.mule.sdk.api.meta.JavaVersion.JAVA_8;
  * This is the main class of an extension, is the entry point from which configurations, connection providers, operations
  * and sources are going to be declared.
  */
-@Xml(prefix = "ms-idp-omni")
-@Extension(name = "MuleSoft IDP Omni Connector", category = Category.SELECT)
+@Xml(prefix = "ms-idp-universal")
+@Extension(name = "MuleSoft IDP Universal Connector", category = Category.SELECT)
 @Configurations(IDPConfiguration.class)
 @RequiresEnterpriseLicense(allowEvaluationLicense = true)
 @ErrorTypes(IDPErrorType.class)
