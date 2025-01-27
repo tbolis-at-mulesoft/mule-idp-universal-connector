@@ -1,2 +1,2 @@
-# mule-idp-omni-connector
-MuleSoft IDP Omni Connector
+# mule-idp-universal-connector
+MuleSoft IDP Universal Connector
